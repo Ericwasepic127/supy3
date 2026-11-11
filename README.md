@@ -17,16 +17,16 @@ The link: https://supy3.onrender.com/
                                                        
 </pre>
 
-![CodeQL status](https://github.com/Ericwasepic127/ericwasepic127.github.io/actions/workflows/github-code-scanning/codeql/badge.svg) [![Latest release](https://img.shields.io/github/v/release/Ericwasepic127/ericwasepic127.github.io)](https://github.com/Ericwasepic127/ericwasepic127.github.io/releases) ![Activity](https://img.shields.io/github/commit-activity/m/Ericwasepic127/ericwasepic127.github.io) ![License](https://img.shields.io/github/license/Ericwasepic127/ericwasepic127.github.io) ![Stars](https://img.shields.io/github/stars/Ericwasepic127/ericwasepic127.github.io) ![Pages production](https://github.com/Ericwasepic127/ericwasepic127.github.io/actions/workflows/static.yml/badge.svg) ![Last commit](https://img.shields.io/github/last-commit/Ericwasepic127/ericwasepic127.github.io)
+![CodeQL status](https://github.com/Ericwasepic127/supy3/actions/workflows/github-code-scanning/codeql/badge.svg) [![Latest release](https://img.shields.io/github/v/release/Ericwasepic127/supy3)](https://github.com/Ericwasepic127/supy3/releases) ![Activity](https://img.shields.io/github/commit-activity/m/Ericwasepic127/supy3) ![License](https://img.shields.io/github/license/Ericwasepic127/supy3) ![Stars](https://img.shields.io/github/stars/Ericwasepic127/supy3) ![Last commit](https://img.shields.io/github/last-commit/Ericwasepic127/supy3)
 
 ## Needed to use and modify?
 
 ```bash
-git clone -b product --single-branch https://github.com/Ericwasepic127/ericwasepic127.github.io.git
+git clone -b product --single-branch https://github.com/Ericwasepic127/supy3.git
 ```
 **OR**
 
-[Releases/tag/Product-built](https://github.com/Ericwasepic127/ericwasepic127.github.io/releases/tag/product-built)
+[Releases/tag/Product-built](https://github.com/Ericwasepic127/supy3/releases/tag/product-built)
 
 I cannot guarantee this is not buggy, because of it always updates on my push so it might buggy
 
@@ -38,7 +38,7 @@ I cannot guarantee this is not buggy, because of it always updates on my push so
 
 ## License:
 
-License is [**MIT**](LICENSE) but I've been tested and it has almost no bugs ([releases](https://github.com/Ericwasepic127/ericwasepic127.github.io/releases) only). Bugs appear so feel free to [create issue](https://github.com/Ericwasepic127/ericwasepic127.github.io/issues) and tell about it!
+License is [**MIT**](LICENSE) but I've been tested and it has almost no bugs ([releases](https://github.com/Ericwasepic127/supy3/releases) only). Bugs appear so feel free to [create issue](https://github.com/Ericwasepic127/supy3/issues) and tell about it!
 ## Screenshots:
 
 ![Screenshot 1: REPL startup](https://ericwasepic127.github.io/wiki_files/supy3repl_greet.jpg)
@@ -83,4 +83,4 @@ License is [**MIT**](LICENSE) but I've been tested and it has almost no bugs ([r
 ## Launch it now!
 **[Click it now to open REPL!](https://ericwasepic127.github.io/hello.html) | [Click it now to open IDE!](https://ericwasepic127.github.io/ide.html)**
 
-**For more info, wiki is** [here.](https://github.com/Ericwasepic127/ericwasepic127.github.io/wiki)
+**For more info, wiki is** [here.](https://github.com/Ericwasepic127/supy3/wiki)
