@@ -45,7 +45,6 @@ jobs:
             mv release/* .
             rm -rf release/
             rm -rf .github/
-            rm -r .htaccess
             
       - name: Upload
         run: |
